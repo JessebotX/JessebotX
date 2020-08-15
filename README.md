@@ -1,8 +1,9 @@
 <h1 align=center>hello there</h1>
 
-<p align="center">i create stuff</p>
-
-- [my website][website] (under construction)
+<p align="center">i create stuff
+<br><br>
+    Also check out: <a href="https://jessebot.netlify.app">my website</a>
+</p>
 
 <h3 align=center>languages</h3>
 
@@ -10,6 +11,6 @@
 
 
 
-- last updated: 2020/08/14
+*(last updated: 2020/08/14)*
 
-[website]: https://jessebot.netlify.app
+[website]: https://jessebot.netlify.app	"my website"
