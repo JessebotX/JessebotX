@@ -2,10 +2,11 @@
 
 <p align="center">i create stuff
 <br><br>
-    Also check out: <a href="https://jessebot.netlify.app">my website</a>
+    Also check out: <a href="https://jessebot.netlify.app">my website (WIP)</a>
 </p>
 
-<h3 align=center>languages</h3>
+
+<h1 align=center>languages</h1>
 
 <p align=center> <b>C#</b> | <b>Java</b> | <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | <b>TypeScript</b> | <b>Python</b> | <b>GDScript</b> </p>
 
