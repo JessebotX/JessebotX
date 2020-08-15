@@ -1,19 +1,15 @@
-### hello there
+<h1 align=center>hello there</h1>
 
-<center><b>i create stuff</b></center>
+<p align="center">i create stuff</p>
 
-[website][website] (under construction)
+- [my website][website] (under construction)
 
-### languages
+<h3 align=center>languages</h3>
 
-- C#
-- Java
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Python
+<p align=center> <b>C#</b> | <b>Java</b> | <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | <b>TypeScript</b> | <b>Python</b> | <b>GDScript</b> </p>
 
 
+
+- last updated: 2020/08/14
 
 [website]: https://jessebot.netlify.app
