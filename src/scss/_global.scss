@@ -1,0 +1,15 @@
+$bg: #0a0a0a;
+
+*, 
+*::before, 
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: $bg;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+}
