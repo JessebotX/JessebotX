@@ -1,7 +1,8 @@
-<h1 align=center>hello there</h1>
+<h1 align=center> Jessebot </h1>
+<p align=center>better than the rest...</p>
 
-<p align=center> <b>HTML/CSS</b> | <b>JavaScript</b> | <b>TypeScript</b> | <b>C#</b> | <b>Java</b> | <b>Python</b> </p>
+- [Website](https://jessebot.netlify.app) 
+  - [![Netlify Status](https://api.netlify.com/api/v1/badges/6e6b379d-385d-45ba-9dce-35f794cec5d3/deploy-status)](https://app.netlify.com/sites/jessebot/deploys)
 
-
-
-*(last updated: 2020/08/28)*
+#### Languages
+HTML/CSS, Javascript, Typescript, Java, C#, Python, Svelte
