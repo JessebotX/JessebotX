@@ -1,6 +1,6 @@
 iii.iii (Jesse)
 ===============
-👋 Hello, world!
+Hello there...
 
 Interested in software development and computing science in general. I
 like to program in the following languages:
