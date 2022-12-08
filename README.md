@@ -5,7 +5,8 @@ Hello there...
 Interested in software development and computing science in general. I
 like to program in the following languages:
 
-- C
+- C++
+- Java
 - Go
 
 Projects
