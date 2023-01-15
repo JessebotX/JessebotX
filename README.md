@@ -1,7 +1,7 @@
 # Jesse
 👋 Hello, world!
 
-In general, I am interested in software development, from developing websites to creating games and mods. I enjoy programming in the following languages:
+In general, I am interested in software development: from developing websites to creating games and mods. I enjoy programming in the following languages:
 
 - C++
 - Java
