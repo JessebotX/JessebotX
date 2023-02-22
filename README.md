@@ -1,7 +1,7 @@
 # Jesse
 👋 Hello, world!
 
-In general, I am interested in software development: from developing websites to creating games and mods. I enjoy programming in the following languages:
+A computer science student. Interested in developing a wide range of software, whether it's games, websites, or desktop/mobile applications.
 
 - C++
 - Java
