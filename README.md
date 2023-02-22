@@ -1,11 +1,11 @@
 # Jesse
 👋 Hello, world!
 
-A computer science student. Interested in developing a wide range of software, whether it's games, websites, or desktop/mobile applications.
+A computer science student. Interested in developing a wide range of software, whether it's games, websites, or desktop/mobile applications. I like to program in the following languages.
 
 - C++
 - Java
-- C#
+- Go
 
 ## Projects
 - 🎮 20+ [Mods for Stardew Valley][1].
