@@ -4,7 +4,7 @@
 I'm a computer science student interested in developing a wide range of software, whether it involves games, web, desktop, or mobile applications.
 
 ## Projects
-- 🌐 [Personal Website made with Next.js @ jessebotics.online](https://github.com/JessebotX/jessebotics.online)
+- 🌐 Personal Website made with Next.js @ [jessebotics.online](https://github.com/JessebotX/jessebotics.online)
 - 🎮 20+ [Mods for Stardew Valley][1].
 - 📜 A [collection of scripts][2] for automation, managing systems or
   assisting with productivity.
