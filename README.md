@@ -13,6 +13,3 @@ I'm a computer science student interested in developing a wide range of software
 [1]: https://github.com/JessebotX/StardewValleyMods
 [2]: https://github.com/JessebotX/bin
 [3]: https://github.com/JessebotX/startpage
-
-## Stats
-![GitHub Stats for JessebotX](https://github-readme-stats.vercel.app/api?username=JessebotX)
